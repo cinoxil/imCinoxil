@@ -26,7 +26,7 @@ Hey! I'm Cuneyt Ugur Ongun, you can call me Cino in short. Currently living in I
 <p>
   <a href="https://github.com/cinoxil"><img alt="NodeJS" src="https://badges.aleen42.com/src/node.svg"></a>
     <a href="https://github.com/cinoxil"><img alt="ReactJS" src="https://badges.aleen42.com/src/react.svg"></a>
-    <a href="https://github.com/cinoxil"><img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS%20-%23FF6F00.svg?logo=expressjs&logoColor=white"></a>
+    <a href="https://github.com/cinoxil"><img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS%20-%23FF6F00.svg?logo=express&logoColor=white"></a>
     <a href="https://github.com/cinoxil"><img alt=".Net" src="https://img.shields.io/badge/%20-white.svg?logo=.net&logoColor=blue"></a>
     <a href="https://github.com/cinoxil"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
 </p>
